@@ -13,13 +13,13 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
 I work with AI to create interactive applications — whether it's a desktop pet with personality, a chatbot that remembers you, or a voice-controlled assistant that does real work. My projects blend practical automation with creative AI integration.
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description |
 |---|---|
@@ -65,20 +65,18 @@ I work with AI to create interactive applications — whether it's a desktop pet
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mizin050&show_icons=true&hide_border=false&border_color=30363d&bg_color=00000000&title_color=a78bfa&text_color=94a3b8&icon_color=a78bfa&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mizin050&hide_border=false&border_color=30363d&bg_color=00000000&title_color=a78bfa&text_color=94a3b8&layout=compact&langs_count=8&include_all_commits=true&count_private=true" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mizin050&hide_border=false&border=30363d&background=00000000&stroke=30363d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" width="55%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mizin050&show_icons=true&hide_border=false&border_color=30363d&bg_color=00000000&title_color=a78bfa&text_color=94a3b8&icon_color=a78bfa&include_all_commits=true&count_private=true" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mizin050&hide_border=false&border_color=30363d&bg_color=00000000&title_color=a78bfa&text_color=94a3b8&layout=compact&langs_count=6&include_all_commits=true&count_private=true" height="170" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=mizin050&hide_border=false&border=30363d&background=00000000&stroke=30363d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" height="170" />
 </p>
 
 ---
 
-## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
