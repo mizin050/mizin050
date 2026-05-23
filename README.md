@@ -68,12 +68,12 @@ I work with AI to create interactive applications — whether it's a desktop pet
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mizin050&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mizin050&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mizin050&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=94a3b8&icon_color=a78bfa&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizin050&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=94a3b8&layout=compact&include_all_commits=true&count_private=true" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mizin050&theme=dark&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=mizin050&hide_border=true&background=00000000&stroke=6b7280&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" width="55%" />
 </p>
 
 ---
@@ -83,7 +83,3 @@ I work with AI to create interactive applications — whether it's a desktop pet
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
----
-
-
