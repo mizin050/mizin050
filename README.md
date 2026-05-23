@@ -86,7 +86,13 @@ I work with AI to create interactive applications — whether it's a desktop pet
 
 ---
 
+## 🔝 Top Contributed Repos
 
+<p align="center">
+  
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mizin050&color=534AB7&style=flat-square" />
