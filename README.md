@@ -1,8 +1,8 @@
 <h1 align="center">Mizin Sadikh</h1>
 
 <p align="center">
-  Developer at the intersection of AI &amp; user experience — building things that actually talk back.<br/>
-  Python for the brain · React Native for mobile · everything in between.
+  AI/ML developer building systems that think, remember, and respond.<br/>
+  Python for the brain · FastAPI for the backend · everything else as needed.
 </p>
 
 <p align="center">
@@ -13,23 +13,28 @@
 
 ---
 
-##  About Me
+## About Me
 
-I work with AI to create interactive applications — whether it's a desktop pet with personality, a chatbot that remembers you, or a voice-controlled assistant that does real work. My projects blend practical automation with creative AI integration.
+Third-year CSE student at **Muthoot Institute of Technology and Science, Kochi** (CGPA 8.6).
+
+I build AI-powered applications with a focus on practical deployment — RAG pipelines, voice interfaces, autonomous agents, and hardware experiments. My work leans toward systems that are actually useful rather than just impressive in demos.
 
 ---
 
-##  Projects
+## Projects
 
 | Project | Description |
 |---|---|
-| 🎙️ **Pixie_AI** | Voice-first AI assistant — searches, generates images, responds to gestures |
-| 🧠 **The Missing Link** | Chatbot that learns and remembers your conversations |
-| 🖥️ **Desktop Pet** | Sarcastic companion that dances to your music and listens to commands |
+| 🧠 **Second Brain** | Full-stack AI knowledge base — multimodal ingestion (PDF, DOCX, audio, URL), RAG via ChromaDB + LlamaIndex, neural graph UI, deployed on GCP |
+| 🎙️ **Pixie AI** | Autonomous voice assistant — LLaMA 3.3 70B, Groq Whisper, MediaPipe gesture control, Telegram API integration |
+| 💬 **The Missing Link** | Emotionally intelligent LLM chatbot with memory and persistent conversation context |
+| 🖥️ **Desktop Pet** | Tkinter companion with Spotify API integration — reacts to your music, takes voice commands |
+| 🎮 **Solara: Shards of the Realm** | 2D Unity platformer — original game built from scratch |
+| 📡 **ESP32 Rescue Sensor** | ESP32-C3 sensor array with a Python radar dashboard for real-time visualization |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -39,22 +44,31 @@ I work with AI to create interactive applications — whether it's a desktop pet
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
+**AI / ML**
+
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+
 **Frameworks & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
 **Databases & Cloud**
 
+![ChromaDB](https://img.shields.io/badge/ChromaDB-2D2D2D?style=flat-square&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 **Other**
@@ -76,7 +90,6 @@ I work with AI to create interactive applications — whether it's a desktop pet
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
